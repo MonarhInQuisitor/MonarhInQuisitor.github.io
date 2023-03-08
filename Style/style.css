@@ -1,0 +1,14 @@
+body{
+    font-family: 'Golos Text', sans-serif;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: #2b2b3057;
+}
+.photo{
+        height:220px;
+        width: 220px;
+        float: right;
+}
+.content{
+    width : 50%;
+}
